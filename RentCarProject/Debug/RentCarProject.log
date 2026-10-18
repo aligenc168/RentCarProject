@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\user\source\repos\RentCarProject\RentCarProject\User.h(58,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\User.h(67,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\Car.h(216,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\Car.h(228,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(70,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(89,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(141,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(205,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(213,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(233,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(282,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\RentCarProject\RentCarProject\main.cpp(31,6): warning C4101: loadid: неиспользованная локальная переменная
+  RentCarProject.vcxproj -> C:\Users\user\source\repos\RentCarProject\Debug\RentCarProject.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
